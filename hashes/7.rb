@@ -1,0 +1,1 @@
+One is a symbol and the other is a variable
